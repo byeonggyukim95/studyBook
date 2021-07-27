@@ -20,10 +20,10 @@ public class HelloWorldControllerTest {
     private MockMvc mvc;
 
     @Test
-    public void HelloWorld() throws Exception{
-        String helloWorld = "HelloWorld";
+    public void helloWorld() throws Exception {
+        String helloWorld = "helloWorld";
 
-        mvc.perform(get("/helloWolrd"))
+        mvc.perform(get("/helloWorld"))
                 .andExpect(status().isOk())
                 .andExpect(content().string(helloWorld));
     }
