@@ -1,4 +1,6 @@
-com/stutdy/book/HelloWorldControllerTest.java
- com.stutdy.book.HelloWorldControllerTest
 com/stutdy/book/dto/HelloWorldResponseDtoTest.java
  com.stutdy.book.dto.HelloWorldResponseDtoTest
+com/stutdy/book/HelloWorldControllerTest.java
+ com.stutdy.book.HelloWorldControllerTest
+com/stutdy/book/domain/posts/PostsRepositoryTest.java
+ com.stutdy.book.domain.posts.PostsRepositoryTest
